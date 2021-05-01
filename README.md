@@ -2,8 +2,8 @@
 
 # Prerequisites - 
 
-Account in IBM Watson Cloud http://ibm.com/
-Train dataset of Loan Eligibility https://www.kaggle.com/leonbora/analytics-vidhya-loan-prediction?select=train.csv
+- Account in IBM Watson Cloud http://ibm.com/
+- Train dataset of Loan Eligibility https://www.kaggle.com/leonbora/analytics-vidhya-loan-prediction?select=train.csv
 
 
 Steps to follow to make this model : 
